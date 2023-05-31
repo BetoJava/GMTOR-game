@@ -6,4 +6,4 @@ The project is still in its early stages but it could be continued.
 
 ![Screenshot](core/assets/screenshot.png)
 
-Assets are handmade.
+Assets are homemade.
